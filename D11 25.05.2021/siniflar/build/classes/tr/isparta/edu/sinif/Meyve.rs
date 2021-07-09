@@ -1,0 +1,11 @@
+tr.isparta.edu.sinif.Meyve
+tr.isparta.edu.sinif.solBacak
+tr.isparta.edu.sinif.govde
+tr.isparta.edu.sinif.kafa
+tr.isparta.edu.sinif.Voltran
+tr.isparta.edu.sinif.AileArabasi
+tr.isparta.edu.sinif.Elma
+tr.isparta.edu.sinif.sagBacak
+tr.isparta.edu.sinif.Motor
+tr.isparta.edu.sinif.sagKol
+tr.isparta.edu.sinif.solKol
