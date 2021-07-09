@@ -1,0 +1,7 @@
+1- Final kavramını kullanan sınıf, değişkenlerin normal sınıf ya da değişkenlerden farklı kısıtlarını gösteren 
+birbirinden farklı 5 örnek kodlayınız.
+
+2- excel sorusu
+
+3- nesne tabanlı bir soru daha  
+
